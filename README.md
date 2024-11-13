@@ -1,6 +1,16 @@
+<br clear="both">
+
 <div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/v2/D5616AQGwUcX8jMHhlA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722841293352?e=1735776000&v=beta&t=PEMYLYI2XtbV1SIC9Qbw8D4ajM-oANYUVahT2dG7eZU"  />
+  <img height="200" src="https://media.licdn.com/dms/image/v2/D5616AQGwUcX8jMHhlA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1722841293352?e=2147483647&v=beta&t=_rlr8BMxV04Uhilq7mWYobh3vJKpjYXFC4ITTLBDvTE"  />
 </div>
+
+###
+
+<h3 align="center">👩‍💻  About Me</h3>
+
+###
+
+<p align="center">Hi there, I'm Munsif from Sri Lanka<br><br>- 🔭 I’m 3rd Year Computer Engineering Student<br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I Develop Software</p>
 
 ###
 
@@ -18,13 +28,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Hi there, I'm Munsif from Sri Lanka<br><br>- 🔭 I’m 3rd Year Computer Engineering Student<br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I Develop Software</p>
-
-###
+<br clear="both">
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -111,6 +115,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=munsif-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=munsif-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=munsif-dev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
