@@ -103,8 +103,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=munsif-dev&theme=transparent" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=munsif-dev&theme=transparent)](https://git.io/streak-stats)
 
 
 ###
