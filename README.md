@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munsif-dev&label=Profile%20views&color=0e75b6&style=flat" alt="munsif-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munsif-dev" alt="munsif-dev" /></a> </p>
-
 - 🔭 I’m currently working on [AutoGradePro](https://github.com/munsif-dev/AutoGradePro_Client.git)
 
 - 🌱 I’m currently learning **AI/ML**
