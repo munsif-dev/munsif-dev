@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [www.vercel.ahamedmunsif.com](www.vercel.ahamedmunsif.com)
+- 👨‍💻 All of my projects are available at [www.vercel.ahamedmunsif.com](https://munsifdev.vercel.app/)
 
 - 📝 I regularly write articles on [what I learn...](what I learn...)
 
