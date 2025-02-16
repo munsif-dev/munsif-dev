@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://munsifdev.vercel.app/](https://munsifdev.vercel.app/)
 
-- 📝 I regularly write articles on [what I learn...](what I learn...)
+- 📝 I regularly write articles on what I learn...
 
 - 📫 How to reach me **munsifsaifdev@gmail.com**
 
