@@ -48,16 +48,6 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30px"> Current Projects
-
-<div align="center">
-  <a href="https://github.com/munsif-dev/AutoGradePro_Client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munsif-dev&repo=AutoGradePro_Client&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A54F7&icon_color=6A54F7&text_color=C9D1D9" alt="AutoGradePro"/>
-  </a>
-  <!-- Add another project as needed -->
-</div>
-
-<br>
 
 ## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25px"> Skills & Technologies
 
@@ -167,25 +157,6 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Achievements
-
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <div style="background-color: #1a1b27; border-radius: 10px; padding: 20px; margin: 10px; width: 300px;">
-      <img src="https://img.icons8.com/fluency/48/000000/prize.png" width="40" alt="Achievement"/>
-      <h3>Innovative Project</h3>
-      <p>Presenter at INSL Southern Province Innovative Project Competition (Dec 2024)</p>
-    </div>
-    
-    <div style="background-color: #1a1b27; border-radius: 10px; padding: 20px; margin: 10px; width: 300px;">
-      <img src="https://img.icons8.com/fluency/48/000000/code.png" width="40" alt="Hackathon"/>
-      <h3>HaXtreme 3.0</h3>
-      <p>Participant in IEEE Student Branch Hackathon at University of Ruhuna (Nov 2024)</p>
-    </div>
-  </div>
-</div>
-
-<br>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px"> GitHub Trophies
 
