@@ -1,201 +1,154 @@
-# <div align="center">👨‍💻 Ahamed Munsif | Computer Engineering Undergraduate</div>
-
 <div align="center">
-  <a href="https://munsifdev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/ahamedmunsif">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:munsifsaifdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.leetcode.com/ahamedmunsif">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://www.youtube.com/c/munsif%20a">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
+  
+  # Hi there, I'm Ahamed Munsif 👋
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A54F7&center=true&vCenter=true&random=false&width=440&lines=Computer+Engineering+Student;AI%2FML+Enthusiast;Full-Stack+Developer;Problem+Solver" alt="Typing SVG"/>
+  
+  <p>Computer Engineering Undergraduate @ University of Ruhuna | 3.51/4.0 GPA</p>
+  
+  [![Website](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://munsifdev.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahamedmunsif)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munsifsaifdev@gmail.com)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/ahamedmunsif)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/munsif%20a)
+
+  <img src="https://komarev.com/ghpvc/?username=munsif-dev&label=Profile%20views&color=6A54F7&style=flat-square" alt="Profile Views" />
 </div>
+
+<br/>
 
 ## 🚀 About Me
 
-> Computer Engineering student at University of Ruhuna with a 3.51/4.0 GPA, specializing in AI/ML and Full-Stack Development. Currently seeking internship opportunities to apply my technical skills to real-world challenges.
+> I'm a passionate Computer Engineering student merging the worlds of AI/ML and Software Engineering. With expertise in neural networks, large language models, and full-stack development, I create intelligent solutions for complex problems.
 
-- 🔭 Building **[AutoGradePro](https://github.com/munsif-dev/AutoGradePro_Client)** - An LLM-powered automated paper grading system
-- 🌱 Focusing on **AI/ML**, specializing in neural networks and large language models
-- 🎓 Expected graduation: 2026
-- 💼 Open for internship opportunities in AI/ML and Software Development
-- ✍️ I document my learning journey through technical articles
-- 📫 Reach me at: **munsifsaifdev@gmail.com**
+- 🔭 Currently developing **[AutoGradePro](https://github.com/munsif-dev/AutoGradePro_Client)** - an LLM-powered automated paper grading system
+- 🌱 Actively exploring **AI/ML advancements** and their practical applications
+- 🎓 Expected graduation: 2026 - Open for internship opportunities
+- 💼 Looking to apply my technical expertise to real-world challenges
+- ✍️ I document my learning journey and technical insights
 
-## 🛠️ Skills
+<br/>
 
-<details>
-  <summary><b>AI/ML & Data Science</b></summary>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
-    <img src="https://img.shields.io/badge/Seaborn-8FB9B8?style=flat&logo=seaborn&logoColor=white" alt="Seaborn" />
-  </p>
-</details>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=munsif-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=munsif-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-<details>
-  <summary><b>Frontend Development</b></summary>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass" />
-  </p>
-</details>
+<br/>
 
-<details>
-  <summary><b>Backend Development</b></summary>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
-    <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL" />
-  </p>
-</details>
+## 💻 Tech Stack
 
-<details>
-  <summary><b>Mobile Development</b></summary>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native" />
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
-  </p>
-</details>
+<div align="center">
 
-<details>
-  <summary><b>DevOps & Cloud</b></summary>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" />
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-    <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white" alt="NGINX" />
-  </p>
-</details>
+### Languages
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-<details>
-  <summary><b>Databases</b></summary>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
-    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server" />
-  </p>
-</details>
+### AI & Machine Learning
+  
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+  
+### Web & Mobile Development
+  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-<details>
-  <summary><b>Programming Languages</b></summary>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  </p>
-</details>
+### DevOps & Cloud
+  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+  
+### Databases
+  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## 🏆 Projects
+</div>
+
+<br/>
+
+## 📂 Current Projects
 
 <div align="center">
   <a href="https://github.com/munsif-dev/AutoGradePro_Client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munsif-dev&repo=AutoGradePro_Client&theme=radical" alt="AutoGradePro" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munsif-dev&repo=AutoGradePro_Client&theme=tokyonight&hide_border=true" alt="AutoGradePro" />
   </a>
+  <!-- You can add another pinned repository here if you want to showcase more projects -->
+</div>
+
+<br/>
+
+## 📈 GitHub Contributions
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=munsif-dev&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+## 🛠️ Popular Repositories
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munsif-dev&layout=compact&theme=tokyonight&hide_border=true" width="355px" alt="Top Languages" />
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=munsif-dev&theme=nord&column=7&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+## 🌟 Recent Achievements
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/prize.png" width="30" alt="Achievement"/>
+      </td>
+      <td>Presenter at INSL Southern Province Innovative Project Competition (Dec 2024)</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/code.png" width="30" alt="Hackathon"/>
+      </td>
+      <td>Participant in HaXtreme 3.0 - IEEE Student Branch, University of Ruhuna (Nov 2024)</td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+
+  ### 💡 "The best way to predict the future is to invent it."
   
-  <!-- Add more pinned repos here, for example:
-  <a href="https://github.com/munsif-dev/ConcreteStrengthPrediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munsif-dev&repo=ConcreteStrengthPrediction&theme=radical" alt="Concrete Strength Prediction" />
-  </a>
-  -->
-</div>
-
-### 🔍 Featured Projects
-
-1. **AutoGradePro** | [GitHub](https://github.com/munsif-dev/AutoGradePro_Client) | [Live Demo](https://munsifdev.vercel.app/)
-   - An LLM-powered automated grading system for short answers and code snippets
-   - **Tech Stack**: Django, Next.js, PostgreSQL, LLMs (Llama, Deepseek), TypeScript
-
-2. **EEG-Based Motor Imagery Classification**
-   - Comparing ANN and CNN for classifying EEG-based motor imagery signals
-   - **Tech Stack**: TensorFlow, PyTorch, Scikit-learn
-
-3. **CoinXcel - Crypto Trading Platform**
-   - Real-time crypto trading simulation platform
-   - **Tech Stack**: Spring Boot, Next.js, MySQL, Docker, AWS
-
-4. **Concrete Strength Prediction**
-   - Machine learning models to predict concrete strength based on component measurements
-   - **Tech Stack**: Python, Scikit-learn, Linear Regression, SVM
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=munsif-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munsif-dev&theme=radical&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munsif-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
-## 🎓 Certifications
-
-- Introduction to Containers / Docker, Kubernetes & OpenShift - IBM, Coursera
-- Supervised Machine Learning: Regression and Classification - IBM
-- Databases and SQL for Data Science with Python - IBM
-- Agile Dev Practices: SDLC & Project Management - Northeastern University
-- Application Development using Microservices and Serverless - IBM
-- Continuous Integration and Continuous Delivery (CI/CD) - IBM
-
-## 🏅 Achievements
-
-- Presenter at INSL Southern Province Innovative Project Competition (Dec 2024)
-- Participant in HaXtreme 3.0 - IEEE Student Branch, University of Ruhuna (Nov 2024)
-- Participant in HaXtreme 2.0 - IEEE Student Branch, University of Ruhuna (Oct 2023)
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=munsif-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=munsif-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
----
-
-<div align="center">
-  <i>💬 "The best way to predict the future is to invent it." — Alan Kay</i>
+  <hr>
+  
+  [![Website](https://img.shields.io/badge/Check_out_my_portfolio-6A54F7?style=for-the-badge&logoColor=white)](https://munsifdev.vercel.app/)
+  
 </div>
